@@ -102,7 +102,7 @@ Page 3: Year-over-Year & Comparative Analysis
 Objective
 
 To evaluate long-term growth by comparing current sales with Same Period Last Year.
-<img width="1240" height="703" alt="Same Period Last Year" src="https://github.com/user-attachments/assets/606941ca-2b31-4e73-9ca9-a3dd97ec43a2" />
+![image alt](https://github.com/laxmi501/Mobile_Sales_Dashboard/blob/30204723b1576436a1453ec55393d4b8c7df10f3/Same%20Period%20Last%20Year%20report.png)
 
 
 Key Insights
