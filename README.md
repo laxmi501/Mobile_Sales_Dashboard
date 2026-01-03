@@ -1,8 +1,9 @@
 Mobile Sales Dashboard – Power BI Project
-
+ 
 📌 Project Overview
 
-The Mobile Sales Dashboard is an end-to-end Power BI analytics project designed to analyze mobile phone sales data across multiple dimensions such as time, geography, brand, payment method, and customer behavior. The dashboard helps stakeholders quickly understand sales performance, identify trends, and make data-driven decisions.
+The Mobile Sales Dashboard is an end-to-end Power BI analytics project designed to analyze mobile phone sales data across multiple dimensions such as time, geography, brand, payment method, and customer behavior.
+The dashboard helps stakeholders quickly understand sales performance, identify trends, and make data-driven decisions.
 
 This project consists of three interactive dashboard pages, each focused on a specific analytical objective.
 
@@ -22,7 +23,139 @@ Tools & Technologies Used
 
 Dashboard Pages Explanation
 
-Page 1: Sales Overview Dashboard Objective
+Page 1: Sales Overview Dashboard
+Objective
 
 To provide a high-level snapshot of overall mobile sales performance with key KPIs and distribution insights.
+<img width="1097" height="621" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/5c20a605-8fbf-40eb-a5df-c30526271f8f" />
+
+
+
+Key Metrics
+
+-Total Sales: 769M
+
+-Total Quantity Sold: 19K units
+
+-Total Transactions: 4K
+
+-Average Selling Price: 40.11K
+
+Visual Insights
+
+-City-wise Sales Map – Identifies top-performing cities
+
+-Monthly Quantity Trend – Tracks sales movement across months
+
+-Customer Rating Distribution – Good, Average, Poor ratings
+
+-Payment Method Analysis – UPI, Debit Card, Credit Card, Cash
+
+-Brand Performance Table – Sales & transaction comparison by brand
+
+-Top Mobile Models – Highest revenue-generating models
+
+-Sales by Day Name – Identifies best-performing weekdays
+
+Business Value
+
+-Enables quick performance review
+
+-Highlights customer behavior and payment preferences
+
+-Identifies top brands, models, and locations
+
+Page 2: MTD (Month-to-Date) Performance Analysis
+Objective
+
+To monitor short-term sales performance and track progress within the current month.
+<img width="1232" height="698" alt="MTD Report" src="https://github.com/user-attachments/assets/63cce65e-5e3a-48c0-a21b-0ed3f8a89ea8" />
+
+
+Key Metrics
+
+-MTD Sales: 23M
+
+-MTD Quantity: 604 units
+
+-MTD Transactions: 116
+
+-MTD Average Price: 37.6K
+
+Visual Insights
+
+-MTD Sales Trend by Day
+
+-Drill-down by Year → Quarter → Month → Day
+
+-Smooth trend line showing daily sales accumulation
+
+Business Value
+
+-Helps identify daily performance patterns
+
+-Supports operational planning and tracking
+
+-Useful for sales monitoring and target alignment
+
+Page 3: Year-over-Year & Comparative Analysis
+Objective
+
+To evaluate long-term growth by comparing current sales with Same Period Last Year.
+<img width="1240" height="703" alt="Same Period Last Year" src="https://github.com/user-attachments/assets/606941ca-2b31-4e73-9ca9-a3dd97ec43a2" />
+
+
+Key Insights
+
+-Year-wise Sales vs Last Year
+
+-Quarter-wise Performance Comparison
+
+-Month-wise Sales Trends
+
+-Detailed comparison table for deep analysis
+
+Visual Insights
+
+-Bar charts showing YoY growth
+
+-Side-by-side comparison for current vs previous periods
+
+-Identification of seasonality and growth opportunities
+
+Business Value
+
+-Measures business growth over time
+
+-Identifies strong and weak periods
+
+-Supports strategic decision-making
+
+Key Learnings from This Project
+
+-Designed multi-page dashboards for different analytical needs
+
+-Applied DAX measures for KPIs and time intelligence
+
+-Built clean, user-friendly visuals for storytelling
+
+-Improved understanding of sales analytics and business insights
+
+Conclusion
+
+-This Mobile Sales Dashboard demonstrates my ability to:
+
+-Analyze real-world sales data
+
+-Design impactful Power BI dashboard
+
+-Translate raw data into actionable insights
+
+-Support both operational and strategic decisions
+
+Author: Laxmi
+
+Role: Aspiring Data Analyst
+
+Skills: Power BI | SQL | Python | Data Analysis | Visualization
 
