@@ -27,7 +27,7 @@ Page 1: Sales Overview Dashboard
 Objective
 
 To provide a high-level snapshot of overall mobile sales performance with key KPIs and distribution insights.
-<img width="1097" height="621" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/5c20a605-8fbf-40eb-a5df-c30526271f8f" />
+![image alt](https://github.com/laxmi501/Mobile_Sales_Dashboard/blob/bd3cdb0355db89fc46275281829cb6171ec4e7ff/Dashboard.jpg)
 
 
 
