@@ -69,7 +69,7 @@ Page 2: MTD (Month-to-Date) Performance Analysis
 Objective
 
 To monitor short-term sales performance and track progress within the current month.
-<img width="1232" height="698" alt="MTD Report" src="https://github.com/user-attachments/assets/63cce65e-5e3a-48c0-a21b-0ed3f8a89ea8" />
+![image alt](https://github.com/laxmi501/Mobile_Sales_Dashboard/blob/1ea4a716ac18cadd4fab5055a4e907783af6abfd/MTD%20Report.jpg)
 
 
 Key Metrics
